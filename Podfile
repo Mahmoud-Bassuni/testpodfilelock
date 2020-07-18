@@ -8,4 +8,5 @@ target 'whatsappDemo' do
   # Pods for whatsappDemo
 
   pod 'Kingfisher'
+  pod 'MLTontiatorView', '~> 1.1.2'
 end

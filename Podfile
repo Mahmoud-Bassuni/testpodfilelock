@@ -9,4 +9,5 @@ target 'whatsappDemo' do
 
   pod 'Kingfisher'
   pod 'MLTontiatorView', '~> 1.1.2'
+#pod 'SDWebImage'
 end

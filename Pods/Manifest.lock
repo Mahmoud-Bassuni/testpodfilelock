@@ -2,23 +2,17 @@ PODS:
   - Kingfisher (5.14.0):
     - Kingfisher/Core (= 5.14.0)
   - Kingfisher/Core (5.14.0)
-  - MLTontiatorView (1.1.2):
-    - MLTontiatorView/Core (= 1.1.2)
-  - MLTontiatorView/Core (1.1.2)
 
 DEPENDENCIES:
   - Kingfisher
-  - MLTontiatorView (~> 1.1.2)
 
 SPEC REPOS:
   trunk:
     - Kingfisher
-    - MLTontiatorView
 
 SPEC CHECKSUMS:
   Kingfisher: 7b64389a43139c903ec434788344c288217c792d
-  MLTontiatorView: 639d587327556bfa7abe6a60eb18306a7540add3
 
-PODFILE CHECKSUM: 43b67cd8b624d818720d173b5b0328b2ab7f1317
+PODFILE CHECKSUM: 31d5656348d702e653dede48305d8ab74c482abb
 
 COCOAPODS: 1.9.0
